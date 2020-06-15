@@ -29,7 +29,7 @@ public class SimpleEmail {
 	
 	  
 	  String address1= "metla.venkatesh@gmail.com";//"metla.venkatesh@gmail.com"};
-	  String address6= "aryanabc143@gmail.com";//"metla.venkatesh@gmail.com"};
+	
 	  String address2= "venkatmetla47@gmail.com";
 	  String[] address= {address1,address2,"aryanabc143@gmail.com"};
 
